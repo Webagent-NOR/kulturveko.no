@@ -174,6 +174,21 @@
       opacity: 0.7;
     }
 
+    .footer-credit {
+      display: block;
+      margin-top: 0.4rem;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.55rem;
+      letter-spacing: 0.1em;
+      color: var(--faded);
+      opacity: 0.4;
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+    .footer-credit:hover {
+      opacity: 0.7;
+    }
+
     /* Entrance animations */
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(16px); }
@@ -243,6 +258,7 @@
 
   <footer class="footer">
     <span class="footer-text">Os &middot; Bjørnafjorden</span>
+    <a href="https://webagent.no" target="_blank" rel="noopener" class="footer-credit">Levert av Webagent</a>
   </footer>
 
   <script defer src="/_vercel/insights/script.js"></script>
