@@ -1,0 +1,137 @@
+{
+    "navbar": {
+        "title": "Kulturveko i Os",
+        "experience": "Oppleving",
+        "identity": "Om oss",
+        "program": "Program",
+        "newsletter": "Nyheitsbrev",
+        "language": "Språk"
+    },
+    "hero": {
+        "line1": "Velkomen til",
+        "line2": "Kulturveko.",
+        "cta": "Meld deg på ventelista",
+        "date": "19.–27. juni 2026",
+        "location": "Os, Bjørnafjorden"
+    },
+    "features": {
+        "title": "Musikk, Kunst & Opplevingar",
+        "subtitle": "Ei heil veke fylt med kulturelle møte og uttrykk — på tvers av scener, rom og møteplassar.",
+        "shuffler": {
+            "title": "Programkategoriar",
+            "subtitle": "Noko for alle",
+            "card1": {
+                "label": "Musikk & Scene",
+                "desc": "Konsertar & Scenekunst"
+            },
+            "card2": {
+                "label": "Kunst & Litteratur",
+                "desc": "Biletkunst & Ord"
+            },
+            "card3": {
+                "label": "Humor & Mat",
+                "desc": "Latter & Smak"
+            }
+        },
+        "typewriter": {
+            "title": "Festivallogg",
+            "liveFeed": "Snart Live",
+            "messages": "PROGRAMSLIPP: KJEM_SNART\nARTISTAR: LOKALE_OG_INTERNASJONALE\nSCENER: FLEIRE_ARENAER_I_OS\nSTATUS: ÅR_ETTER_ÅR"
+        },
+        "scheduler": {
+            "title": "Vekeoversikt",
+            "subtitle": "Sju dagar med kultur",
+            "days": [
+                "S",
+                "M",
+                "T",
+                "O",
+                "T",
+                "F",
+                "L"
+            ],
+            "deploy": "Følg med"
+        }
+    },
+    "philosophy": {
+        "statement1_1": "Ein festival som er både ",
+        "statement1_2": "inkluderande og ambisiøs.",
+        "statement2_1": "Der det lokale møter",
+        "statement2_2": "Det Internasjonale."
+    },
+    "protocol": {
+        "steps": [
+            {
+                "num": "01",
+                "title": "Samlinga",
+                "desc": "Lokale, nasjonale og internasjonale artistar, kunstnarar og kulturaktørar samlast i Os til ei heil veke med opplevingar."
+            },
+            {
+                "num": "02",
+                "title": "Møtet",
+                "desc": "Ein naturleg møtestad mellom tradisjon og nyskaping — der etablerte namn deler scene med nye stemmer."
+            },
+            {
+                "num": "03",
+                "title": "Opplevinga",
+                "desc": "Musikk, scenekunst, biletkunst, humor, litteratur og mat — publikum kjem tett på menneska bak uttrykka."
+            }
+        ],
+        "visualizer": "Visualisering // {{num}}",
+        "phase": "Fase // {{num}}"
+    },
+    "newsletter": {
+        "phase": "Følg med",
+        "title1": "Bli med på",
+        "title2": "Kulturveko.",
+        "desc": "Artistar, arrangement og fullt program blir lanserte snart. Meld deg på for å få beskjed først. 19.–27. juni 2026.",
+        "cta": "Meld deg på",
+        "placeholder": "Din e-postadresse",
+        "sending": "Sender...",
+        "success": "Takk! Du er no på ventelista for Kulturveko i Os.",
+        "already": "Du er allereie på ventelista!",
+        "errorGeneric": "Noko gjekk gale. Prøv igjen."
+    },
+    "footer": {
+        "subtitle": "Ein ny, årleg kulturfestival i Os.",
+        "status": "Program kjem snart",
+        "index": "Indeks",
+        "social": "Sosialt",
+        "legal": "Juridisk",
+        "privacy": "Personvern",
+        "terms": "Vilkår",
+        "contact": "Kontakt",
+        "rights": "© 2026 Kulturveko i Os. Alle rettar reservert.",
+        "deployed": "Os, Bjørnafjorden"
+    },
+    "legal": {
+        "privacy": {
+            "title": "Personvernerklæring",
+            "updated": "Sist oppdatert: Februar 2026",
+            "who_title": "Kven er ansvarleg?",
+            "who_text": "Kulturveko i Os er behandlingsansvarleg for personopplysningar som vert samla inn via denne nettsida. Festivalen vert arrangert i Os, Bjørnafjorden kommune.",
+            "what_title": "Kva samlar vi inn?",
+            "what_text": "Vi samlar berre inn e-postadressa di når du melder deg på ventelista vår. Vi samlar ikkje inn namn, adresse eller andre personopplysningar.",
+            "why_title": "Kvifor samlar vi inn data?",
+            "why_text": "E-postadressa di vert brukt til å sende deg informasjon om Kulturveko i Os, inkludert programslipp, billettslepp og nyheiter om festivalen. Rettsgrunnlaget er samtykke (GDPR art. 6(1)(a)). Du kan trekkje samtykket ditt tilbake når som helst.",
+            "processor_title": "Kven behandlar dataa?",
+            "processor_text": "Vi brukar Brevo (tidlegare Sendinblue) som databehandlar for utsending av e-post. Brevo er eit EU-basert selskap og følgjer GDPR. Dataa dine vert lagra på serverar i EU.",
+            "rights_title": "Kva rettar har du?",
+            "rights_text": "Du har rett til innsyn, retting, sletting og dataportabilitet. Du kan også klage til Datatilsynet. For å bruke rettane dine, kontakt oss på post@kulturveko.no.",
+            "contact_title": "Kontakt",
+            "contact_text": "Spørsmål om personvern kan rettast til post@kulturveko.no."
+        },
+        "terms": {
+            "title": "Vilkår for bruk",
+            "updated": "Sist oppdatert: Februar 2026",
+            "use_title": "Bruk av nettsida",
+            "use_text": "Denne nettsida er eigd og driven av Kulturveko i Os. Ved å bruke nettsida godtek du desse vilkåra. Nettsida er meint som ein informasjonskanal for festivalen.",
+            "content_title": "Innhald",
+            "content_text": "Alt innhald på nettsida, inkludert tekst, bilete og design, er verna av opphavsrett og tilhøyrer Kulturveko i Os. Innhaldet kan ikkje kopierast eller brukast utan skriftleg samtykke.",
+            "liability_title": "Ansvar",
+            "liability_text": "Vi strevar etter at informasjonen på nettsida skal vere korrekt, men kan ikkje garantere at alt innhald til ei kvar tid er oppdatert. Kulturveko i Os tek ikkje ansvar for eventuelle feil eller manglar.",
+            "changes_title": "Endringar",
+            "changes_text": "Vi kan endre desse vilkåra når som helst. Endringar gjeld frå dei vert publiserte på denne sida."
+        }
+    }
+}

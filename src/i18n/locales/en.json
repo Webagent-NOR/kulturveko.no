@@ -1,0 +1,137 @@
+{
+    "navbar": {
+        "title": "Kulturveko i Os",
+        "experience": "Experience",
+        "identity": "About",
+        "program": "Program",
+        "newsletter": "Newsletter",
+        "language": "Lang"
+    },
+    "hero": {
+        "line1": "Welcome to",
+        "line2": "Kulturveko.",
+        "cta": "Join the Waitlist",
+        "date": "June 19–27, 2026",
+        "location": "Os, Bjørnafjorden"
+    },
+    "features": {
+        "title": "Music, Art & Experiences",
+        "subtitle": "A full week of cultural encounters and expression — across stages, venues and meeting places.",
+        "shuffler": {
+            "title": "Program Categories",
+            "subtitle": "Something for everyone",
+            "card1": {
+                "label": "Music & Stage",
+                "desc": "Concerts & Performing Arts"
+            },
+            "card2": {
+                "label": "Art & Literature",
+                "desc": "Visual Arts & Words"
+            },
+            "card3": {
+                "label": "Humor & Food",
+                "desc": "Laughter & Flavor"
+            }
+        },
+        "typewriter": {
+            "title": "Festival Log",
+            "liveFeed": "Coming Soon",
+            "messages": "PROGRAM_DROP: COMING_SOON\nARTISTS: LOCAL_AND_INTERNATIONAL\nVENUES: MULTIPLE_ARENAS_IN_OS\nSTATUS: YEAR_AFTER_YEAR"
+        },
+        "scheduler": {
+            "title": "Weekly Overview",
+            "subtitle": "Seven days of culture",
+            "days": [
+                "S",
+                "M",
+                "T",
+                "W",
+                "T",
+                "F",
+                "S"
+            ],
+            "deploy": "Stay Tuned"
+        }
+    },
+    "philosophy": {
+        "statement1_1": "A festival that is both ",
+        "statement1_2": "inclusive and ambitious.",
+        "statement2_1": "Where local meets",
+        "statement2_2": "International."
+    },
+    "protocol": {
+        "steps": [
+            {
+                "num": "01",
+                "title": "The Gathering",
+                "desc": "Local, national and international artists, creators and cultural voices come together in Os for a full week of experiences."
+            },
+            {
+                "num": "02",
+                "title": "The Meeting",
+                "desc": "A natural meeting place between tradition and innovation — where established names share the stage with new voices."
+            },
+            {
+                "num": "03",
+                "title": "The Experience",
+                "desc": "Music, performing arts, visual arts, humor, literature and food — the audience gets close to the people behind the art."
+            }
+        ],
+        "visualizer": "Visualizer // {{num}}",
+        "phase": "Phase // {{num}}"
+    },
+    "newsletter": {
+        "phase": "Stay Tuned",
+        "title1": "Join us at",
+        "title2": "Kulturveko.",
+        "desc": "Artists, events and the full program will be announced soon. Sign up to be the first to know. June 19–27, 2026.",
+        "cta": "Sign up",
+        "placeholder": "Your email address",
+        "sending": "Sending...",
+        "success": "Thanks! You're on the waitlist for Kulturveko i Os.",
+        "already": "You're already on the waitlist!",
+        "errorGeneric": "Something went wrong. Please try again."
+    },
+    "footer": {
+        "subtitle": "A new, annual cultural festival in Os.",
+        "status": "Program coming soon",
+        "index": "Index",
+        "social": "Social",
+        "legal": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "contact": "Contact",
+        "rights": "© 2026 Kulturveko i Os. All rights reserved.",
+        "deployed": "Os, Bjørnafjorden"
+    },
+    "legal": {
+        "privacy": {
+            "title": "Privacy Policy",
+            "updated": "Last updated: February 2026",
+            "who_title": "Who is responsible?",
+            "who_text": "Kulturveko i Os is the data controller for personal data collected through this website. The festival is organized in Os, Bjørnafjorden municipality, Norway.",
+            "what_title": "What do we collect?",
+            "what_text": "We only collect your email address when you sign up for our waitlist. We do not collect names, addresses, or other personal information.",
+            "why_title": "Why do we collect data?",
+            "why_text": "Your email address is used to send you information about Kulturveko i Os, including program announcements, ticket sales, and festival news. The legal basis is consent (GDPR Art. 6(1)(a)). You can withdraw your consent at any time.",
+            "processor_title": "Who processes the data?",
+            "processor_text": "We use Brevo (formerly Sendinblue) as our data processor for email distribution. Brevo is an EU-based company and complies with GDPR. Your data is stored on servers within the EU.",
+            "rights_title": "What are your rights?",
+            "rights_text": "You have the right to access, rectify, delete, and port your data. You can also file a complaint with the Norwegian Data Protection Authority (Datatilsynet). To exercise your rights, contact us at post@kulturveko.no.",
+            "contact_title": "Contact",
+            "contact_text": "Questions about privacy can be directed to post@kulturveko.no."
+        },
+        "terms": {
+            "title": "Terms of Service",
+            "updated": "Last updated: February 2026",
+            "use_title": "Use of this website",
+            "use_text": "This website is owned and operated by Kulturveko i Os. By using this website, you agree to these terms. The website serves as an information channel for the festival.",
+            "content_title": "Content",
+            "content_text": "All content on this website, including text, images, and design, is protected by copyright and belongs to Kulturveko i Os. Content may not be copied or used without written consent.",
+            "liability_title": "Liability",
+            "liability_text": "We strive to ensure that the information on this website is accurate, but cannot guarantee that all content is up to date at all times. Kulturveko i Os is not liable for any errors or omissions.",
+            "changes_title": "Changes",
+            "changes_text": "We may change these terms at any time. Changes take effect when published on this page."
+        }
+    }
+}
